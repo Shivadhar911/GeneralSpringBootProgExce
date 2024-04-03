@@ -21,7 +21,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<java.version>17</java.version>
+		<java.version>1.8</java.version>
 		<sonar.host.url>http://20.197.2.58:8084/</sonar.host.url>
                 <sonar.login>admin</sonar.login>
                 <sonar.password>Shiva@911</sonar.password>
